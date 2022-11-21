@@ -8,11 +8,73 @@ namespace HomeWork11_21.Models
 {
     internal class Car : Vehicle
     {
-        public string Brand;
-        public string Model;
-        public double FuelCapacity;
+        private string _brand;
+        private string _model;
+        double _fuelCapacity;
+        double _currentFuel;
         public double FuelFor1Km;
-        public double CurrentFuel;
+
+        public double CurrentFuel
+        {
+            get { return _currentFuel; }
+            set 
+            {
+                if (value<= _fuelCapacity && value>=0)
+                {
+                    _currentFuel = value;
+                }
+                else
+                {
+                    Console.WriteLine("Catmir");
+                }
+            }
+        }
+
+
+
+
+        public double FuelCapacity
+        {
+            get { return _fuelCapacity; }
+            set
+            {
+                if (value>0 && value<120)
+                {
+                    _fuelCapacity = value;
+                }
+                else
+                {
+                    Console.WriteLine("Wrong value");
+                }
+                
+            }
+        }
+        public string Model
+        {
+            get
+            {
+                return _model;
+            }
+            set
+            {
+                if (value.Trim().Length > 0 && value.Trim().Length < 100)
+                {
+                    _model = value.Trim();
+                }
+            }
+        }
+        public string Brand {
+            get {
+                return _brand;
+                }
+            set 
+            {
+                if (value.Trim().Length>0 && value.Trim().Length<100)
+                {
+                    _brand = value.Trim();
+                }   
+            } 
+        }
 
         public Car(string brand, string model, double fuelCapacity, double fuelFor1Km, int year) : base(year)
         {
