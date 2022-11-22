@@ -1,0 +1,15 @@
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\RecordTuple\RecordTuple\bin\Debug\net6.0\RecordTuple.exe
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\RecordTuple\RecordTuple\bin\Debug\net6.0\RecordTuple.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\RecordTuple\RecordTuple\bin\Debug\net6.0\RecordTuple.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\RecordTuple\RecordTuple\bin\Debug\net6.0\RecordTuple.dll
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\RecordTuple\RecordTuple\bin\Debug\net6.0\RecordTuple.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\RecordTuple\RecordTuple\obj\Debug\net6.0\RecordTuple.csproj.AssemblyReference.cache
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\RecordTuple\RecordTuple\obj\Debug\net6.0\RecordTuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\RecordTuple\RecordTuple\obj\Debug\net6.0\RecordTuple.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\RecordTuple\RecordTuple\obj\Debug\net6.0\RecordTuple.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\RecordTuple\RecordTuple\obj\Debug\net6.0\RecordTuple.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\RecordTuple\RecordTuple\obj\Debug\net6.0\RecordTuple.dll
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\RecordTuple\RecordTuple\obj\Debug\net6.0\refint\RecordTuple.dll
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\RecordTuple\RecordTuple\obj\Debug\net6.0\RecordTuple.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\RecordTuple\RecordTuple\obj\Debug\net6.0\RecordTuple.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\RecordTuple\RecordTuple\obj\Debug\net6.0\ref\RecordTuple.dll
