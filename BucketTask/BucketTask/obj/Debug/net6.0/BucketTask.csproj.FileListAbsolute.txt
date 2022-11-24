@@ -1,0 +1,15 @@
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\BucketTask\BucketTask\bin\Debug\net6.0\BucketTask.exe
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\BucketTask\BucketTask\bin\Debug\net6.0\BucketTask.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\BucketTask\BucketTask\bin\Debug\net6.0\BucketTask.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\BucketTask\BucketTask\bin\Debug\net6.0\BucketTask.dll
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\BucketTask\BucketTask\bin\Debug\net6.0\BucketTask.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\BucketTask\BucketTask\obj\Debug\net6.0\BucketTask.csproj.AssemblyReference.cache
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\BucketTask\BucketTask\obj\Debug\net6.0\BucketTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\BucketTask\BucketTask\obj\Debug\net6.0\BucketTask.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\BucketTask\BucketTask\obj\Debug\net6.0\BucketTask.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\BucketTask\BucketTask\obj\Debug\net6.0\BucketTask.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\BucketTask\BucketTask\obj\Debug\net6.0\BucketTask.dll
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\BucketTask\BucketTask\obj\Debug\net6.0\refint\BucketTask.dll
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\BucketTask\BucketTask\obj\Debug\net6.0\BucketTask.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\BucketTask\BucketTask\obj\Debug\net6.0\BucketTask.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\BucketTask\BucketTask\obj\Debug\net6.0\ref\BucketTask.dll
