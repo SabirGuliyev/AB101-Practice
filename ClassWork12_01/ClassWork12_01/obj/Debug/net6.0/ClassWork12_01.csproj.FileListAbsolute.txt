@@ -1,0 +1,15 @@
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ClassWork12_01\ClassWork12_01\bin\Debug\net6.0\ClassWork12_01.exe
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ClassWork12_01\ClassWork12_01\bin\Debug\net6.0\ClassWork12_01.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ClassWork12_01\ClassWork12_01\bin\Debug\net6.0\ClassWork12_01.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ClassWork12_01\ClassWork12_01\bin\Debug\net6.0\ClassWork12_01.dll
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ClassWork12_01\ClassWork12_01\bin\Debug\net6.0\ClassWork12_01.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ClassWork12_01\ClassWork12_01\obj\Debug\net6.0\ClassWork12_01.csproj.AssemblyReference.cache
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ClassWork12_01\ClassWork12_01\obj\Debug\net6.0\ClassWork12_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ClassWork12_01\ClassWork12_01\obj\Debug\net6.0\ClassWork12_01.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ClassWork12_01\ClassWork12_01\obj\Debug\net6.0\ClassWork12_01.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ClassWork12_01\ClassWork12_01\obj\Debug\net6.0\ClassWork12_01.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ClassWork12_01\ClassWork12_01\obj\Debug\net6.0\ClassWork12_01.dll
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ClassWork12_01\ClassWork12_01\obj\Debug\net6.0\refint\ClassWork12_01.dll
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ClassWork12_01\ClassWork12_01\obj\Debug\net6.0\ClassWork12_01.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ClassWork12_01\ClassWork12_01\obj\Debug\net6.0\ClassWork12_01.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ClassWork12_01\ClassWork12_01\obj\Debug\net6.0\ref\ClassWork12_01.dll
