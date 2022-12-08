@@ -1,0 +1,15 @@
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ClassWorkSystemIO\ClassWorkSystemIO\bin\Debug\net6.0\ClassWorkSystemIO.exe
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ClassWorkSystemIO\ClassWorkSystemIO\bin\Debug\net6.0\ClassWorkSystemIO.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ClassWorkSystemIO\ClassWorkSystemIO\bin\Debug\net6.0\ClassWorkSystemIO.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ClassWorkSystemIO\ClassWorkSystemIO\bin\Debug\net6.0\ClassWorkSystemIO.dll
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ClassWorkSystemIO\ClassWorkSystemIO\bin\Debug\net6.0\ClassWorkSystemIO.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ClassWorkSystemIO\ClassWorkSystemIO\obj\Debug\net6.0\ClassWorkSystemIO.csproj.AssemblyReference.cache
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ClassWorkSystemIO\ClassWorkSystemIO\obj\Debug\net6.0\ClassWorkSystemIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ClassWorkSystemIO\ClassWorkSystemIO\obj\Debug\net6.0\ClassWorkSystemIO.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ClassWorkSystemIO\ClassWorkSystemIO\obj\Debug\net6.0\ClassWorkSystemIO.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ClassWorkSystemIO\ClassWorkSystemIO\obj\Debug\net6.0\ClassWorkSystemIO.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ClassWorkSystemIO\ClassWorkSystemIO\obj\Debug\net6.0\ClassWorkSystemIO.dll
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ClassWorkSystemIO\ClassWorkSystemIO\obj\Debug\net6.0\refint\ClassWorkSystemIO.dll
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ClassWorkSystemIO\ClassWorkSystemIO\obj\Debug\net6.0\ClassWorkSystemIO.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ClassWorkSystemIO\ClassWorkSystemIO\obj\Debug\net6.0\ClassWorkSystemIO.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ClassWorkSystemIO\ClassWorkSystemIO\obj\Debug\net6.0\ref\ClassWorkSystemIO.dll
