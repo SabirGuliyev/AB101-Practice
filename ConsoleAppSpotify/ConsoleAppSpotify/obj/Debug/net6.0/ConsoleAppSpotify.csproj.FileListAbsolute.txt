@@ -1,0 +1,15 @@
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ConsoleAppSpotify\ConsoleAppSpotify\bin\Debug\net6.0\ConsoleAppSpotify.exe
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ConsoleAppSpotify\ConsoleAppSpotify\bin\Debug\net6.0\ConsoleAppSpotify.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ConsoleAppSpotify\ConsoleAppSpotify\bin\Debug\net6.0\ConsoleAppSpotify.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ConsoleAppSpotify\ConsoleAppSpotify\bin\Debug\net6.0\ConsoleAppSpotify.dll
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ConsoleAppSpotify\ConsoleAppSpotify\bin\Debug\net6.0\ConsoleAppSpotify.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ConsoleAppSpotify\ConsoleAppSpotify\obj\Debug\net6.0\ConsoleAppSpotify.csproj.AssemblyReference.cache
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ConsoleAppSpotify\ConsoleAppSpotify\obj\Debug\net6.0\ConsoleAppSpotify.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ConsoleAppSpotify\ConsoleAppSpotify\obj\Debug\net6.0\ConsoleAppSpotify.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ConsoleAppSpotify\ConsoleAppSpotify\obj\Debug\net6.0\ConsoleAppSpotify.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ConsoleAppSpotify\ConsoleAppSpotify\obj\Debug\net6.0\ConsoleAppSpotify.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ConsoleAppSpotify\ConsoleAppSpotify\obj\Debug\net6.0\ConsoleAppSpotify.dll
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ConsoleAppSpotify\ConsoleAppSpotify\obj\Debug\net6.0\refint\ConsoleAppSpotify.dll
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ConsoleAppSpotify\ConsoleAppSpotify\obj\Debug\net6.0\ConsoleAppSpotify.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ConsoleAppSpotify\ConsoleAppSpotify\obj\Debug\net6.0\ConsoleAppSpotify.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\ConsoleAppSpotify\ConsoleAppSpotify\obj\Debug\net6.0\ref\ConsoleAppSpotify.dll
