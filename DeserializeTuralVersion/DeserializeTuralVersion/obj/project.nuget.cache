@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R/V8v0imMuHHKbqjUgIdwKARixjSknhitY+G56gWNoJC0Cl+Sf2dlNPiheZ/57VUjMtqdhmdhm+GZlmKMpKL6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sabir\\OneDrive\\Рабочий стол\\AB101\\DeserializeTuralVersion\\DeserializeTuralVersion\\DeserializeTuralVersion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sabir\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

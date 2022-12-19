@@ -1,0 +1,17 @@
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\DeserializeTuralVersion\DeserializeTuralVersion\bin\Debug\net6.0\DeserializeTuralVersion.exe
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\DeserializeTuralVersion\DeserializeTuralVersion\bin\Debug\net6.0\DeserializeTuralVersion.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\DeserializeTuralVersion\DeserializeTuralVersion\bin\Debug\net6.0\DeserializeTuralVersion.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\DeserializeTuralVersion\DeserializeTuralVersion\bin\Debug\net6.0\DeserializeTuralVersion.dll
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\DeserializeTuralVersion\DeserializeTuralVersion\bin\Debug\net6.0\DeserializeTuralVersion.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\DeserializeTuralVersion\DeserializeTuralVersion\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\DeserializeTuralVersion\DeserializeTuralVersion\obj\Debug\net6.0\DeserializeTuralVersion.csproj.AssemblyReference.cache
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\DeserializeTuralVersion\DeserializeTuralVersion\obj\Debug\net6.0\DeserializeTuralVersion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\DeserializeTuralVersion\DeserializeTuralVersion\obj\Debug\net6.0\DeserializeTuralVersion.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\DeserializeTuralVersion\DeserializeTuralVersion\obj\Debug\net6.0\DeserializeTuralVersion.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\DeserializeTuralVersion\DeserializeTuralVersion\obj\Debug\net6.0\DeserializeTuralVersion.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\DeserializeTuralVersion\DeserializeTuralVersion\obj\Debug\net6.0\DeserializeTuralVersion.csproj.CopyComplete
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\DeserializeTuralVersion\DeserializeTuralVersion\obj\Debug\net6.0\DeserializeTuralVersion.dll
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\DeserializeTuralVersion\DeserializeTuralVersion\obj\Debug\net6.0\refint\DeserializeTuralVersion.dll
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\DeserializeTuralVersion\DeserializeTuralVersion\obj\Debug\net6.0\DeserializeTuralVersion.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\DeserializeTuralVersion\DeserializeTuralVersion\obj\Debug\net6.0\DeserializeTuralVersion.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\AB101\DeserializeTuralVersion\DeserializeTuralVersion\obj\Debug\net6.0\ref\DeserializeTuralVersion.dll
