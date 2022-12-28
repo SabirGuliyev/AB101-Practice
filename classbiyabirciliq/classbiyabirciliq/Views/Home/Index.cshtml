@@ -1,0 +1,10 @@
+﻿@using classbiyabirciliq.Models
+@model List<Product>
+
+@foreach(Product product in Model.OrderBy(x=>x.Name))
+{
+    <h1>@product.Id</h1>
+    <h1>@product.Name</h1>
+    <img class="img-fluid w-100" src="~/img/@product.Image" alt="@product.Name">
+   
+}
